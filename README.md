@@ -10,13 +10,27 @@ This project was built to allow users a platform that they could use to take qui
 
 1. Make sure you have access to a web browser such as Google Chrome, Mozilla Firefox, or Safari.
 
-2. Enter the following URL in the search bar:
+2. Enter the following URL in the search bar:https://expressjs-note-taker-b7bc35a7bb63.herokuapp.com/
+
+3. Enjoy!
 
 ## Usage
 
-### Please refer to the video below for how to use the application:
+### Step 1: Start Application and press "Get Started" button
 
-https://drive.google.com/file/d/1IQMw7RglSJ4X8BU9NRsHqfNi8Y9DKCGf/view?usp=sharing
+![Step 1 Picture](<public/images/Start%20(Step%201).png>)
+
+### Step 2: Add New Note
+
+![Step 2 Picture](<public/images/Add New Note (Step 2).png>)
+
+### Step 3: Save New Note
+
+![Step 3 Picture](<public/images/Save New Note (Step 3).png>)
+
+### Step 4: Delete Note (if needed)
+
+![Step 4 Picture](<public/images/Delete (Step 4).png>)
 
 ## Credits
 
