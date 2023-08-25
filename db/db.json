@@ -1,6 +1,27 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": 1,
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": 819,
+        "title": "Simon's Note",
+        "text": "This actually works "
+    },
+    {
+        "id": 48,
+        "title": "Simons New Note ",
+        "text": "TESTESTEST"
+    },
+    {
+        "id": 447,
+        "title": "Example Note",
+        "text": "This is an example note. "
+    },
+    {
+        "id": 136,
+        "title": "Buy Groceries",
+        "text": "Buy apples, pears, bananas, strawberries."
     }
 ]
