@@ -19,6 +19,7 @@ This project was built to allow users a platform that they could use to take qui
 ### Step 1: Start Application and press "Get Started" button
 
 ![Step 1 Picture](<public/images/Start%20(Step%201).png>)
+![alt text](<public/Images/Start%20(Step%201).png>)
 
 ### Step 2: Add New Note
 
